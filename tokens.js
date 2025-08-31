@@ -11,7 +11,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
         selfMute: true,
     },
